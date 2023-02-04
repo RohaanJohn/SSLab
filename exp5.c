@@ -6,7 +6,7 @@ Title: 1 Pass Assembler
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// input files: input.txt & optab.txt
+// input files: input.txt(program.txt) & optab.txt
 // output files: intermediate.txt & symtab.txt
 
 char addr[10];
